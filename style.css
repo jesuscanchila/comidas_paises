@@ -28,11 +28,14 @@ body{
 }
 
 .option a:hover{
-    background-color: aliceblue;
+    background-color: rgb(255, 30, 30);
+
 }
 
 .infor{
     text-align: center;
+    background-image: url(https://th.bing.com/th/id/R.f6d7871a7e861ed3016cc8e8c0198f12?rik=XJX5kNbWp1gvQw&riu=http%3a%2f%2fbigkarta.ru%2fes%2fimg%2fmapa_italia-1.jpg&ehk=dzKvpbUQFHdHuIN4wvk5tJ%2ffT0WJTAiAx2kmoXoP%2bwo%3d&risl=&pid=ImgRaw&r=0);
+    height: 300px;
 }
 
 .infor p{
@@ -42,7 +45,7 @@ body{
 .imagenes img{
     text-align: center;
     justify-items: center;
-    margin-left: 670px;
+    margin-left: 600px;
 }
 .imagenes h3{
     text-align: center;
@@ -56,7 +59,7 @@ body{
 }
 
 .imagenes2 img{
-margin-left: 670px;
+margin-left: 600px;
 justify-content: center;
 }
 
@@ -97,11 +100,14 @@ h2 {
 footer{
     text-align: center;
     background-color: rgb(255, 30, 30);
+    border: 2px solid;
+    border-radius: 10px;
 }
 
 footer img{
-    padding-right: 800px;
+    padding-right: 1300px;
 }
+
 
 
 
