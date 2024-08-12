@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffb4b4;
+}
+
+header {
+    background-image: url(https://img.freepik.com/vector-premium/fondo-dia-canada-hojas-arce-rojo-aislado-sobre-fondo-blanco_46250-131.jpg);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1em 0;
+    justify-items: center;
+}
+
+main {
+    padding: 2em;
+}
+
+.container {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+.container img {
+    width: 50%;
+    border-radius: 8px;
+    padding-left: 25%;
+}
+
+h2 {
+    color: #ff6347;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 1.5em;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 1.5em;
+}
+
+footer {
+    background-color: #ff6347;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
