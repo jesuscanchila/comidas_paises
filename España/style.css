@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ff6f61;
+}
+
+.main-header {
+    background-color: #ff6f61;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li {
+    margin: 0 15px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background-image: url('https://img.freepik.com/vector-gratis/ilustracion-bandera-espana_53876-18168.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h2 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    text-align: right;
+    justify-content: center;
+   
+    
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin: 0;
+    text-align: right;
+}
+
+.food-section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.food-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.main-footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.main-footer a {
+    color: #ff6f61;
+    text-decoration: none;
+}
