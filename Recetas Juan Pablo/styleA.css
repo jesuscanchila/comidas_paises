@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://e0.pxfuel.com/wallpapers/847/641/desktop-wallpaper-australia-for-your-screen.jpg);
+}
+
+header {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/055/262/large_2x/australia-national-flag-wallpaper-background-free-photo.jpg);
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 1em 0;
+    justify-items: center;
+}
+
+main {
+    padding: 2em;
+}
+
+.container {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+.container img {
+    width: 50%;
+    border-radius: 8px;
+    padding-left: 25%;
+}
+
+h2 {
+    color: #ff2600;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 1.5em;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 1.5em;
+}
+
+footer {
+    background-color: #ff2600;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
